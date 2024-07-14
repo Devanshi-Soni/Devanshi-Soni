@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devanshi Kadecha</h1>
-<h3 align="center">A passionate Fullstack developer from India</h3>
+<h3 align="center">A passionate Information Technology Student from India</h3>
 <img align="centerleft" alt="coding" padding="200" width="300" height="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD6WZD8QNk6DZg9JLHRA3CzhV4XljRCm0kfQ&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devanshi-soni&label=Profile%20views&color=0e75b6&style=flat" alt="devanshi-soni" /> </p>
@@ -8,9 +8,9 @@
 
 - 🔭 I’m currently working on **Health Connect**
 
-- 🌱 I’m currently learning **Asp.Net Core, Mongodb**
+- 🌱 I’m currently learning **Asp.Net Core**
 
-- 💬 Ask me about **node.js, java, C#**
+- 💬 Ask me about **java, C#, html, css, js**
 
 - 📫 How to reach me **devanshikadecha91@gmail.com**
 
