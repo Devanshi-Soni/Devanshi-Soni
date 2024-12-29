@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=devanshi-soni" alt="devanshi-soni" /></a> </p>
 
-- 🔭 I’m currently working on **Vehicle Registration WebApp**
+- 🔭 I’m currently working on **Employee Performance Management System**
 
-- 🌱 I’m currently learning **Asp.Net Core**
+- 🌱 I’m currently learning **Asp.Net Core Advance concepts**
 
 - 💬 Ask me about **java, C#, html, css, js**
 
